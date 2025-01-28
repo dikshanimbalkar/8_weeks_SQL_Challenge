@@ -1,6 +1,6 @@
 Case Study#1 -Restaurant Sales Analysis
 
-📚 Objective: Analyze restaurant sales data yo identify trends, optimize the menu, and improve sales performance.
+📚 Objective: Analyze restaurant sales data to identify trends, optimize the menu, and improve sales performance.
 
 • Key Tool: MySQL
 
